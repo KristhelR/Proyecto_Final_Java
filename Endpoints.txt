@@ -1,0 +1,24 @@
+*********** PROYECTO FINAL JAVA ******************
+********** KRISTHEL ROMERO RAMIREZ **************
+
+http://localhost8081/animal
+{ 
+"animalName":"puppy", 
+"type": "dog", 
+"dob":"2018", 
+"breed":"mixed", 
+"owner":"kristhel", 
+"vetName":"carlos" 
+}
+
+
+
+http://localhost8080/vet
+{ 
+"vetID":"010101", 
+"vetName": "carlos", 
+"vetSpeciality":"general", 
+"experience":"10", 
+"clinic":"cartago"
+}
+
